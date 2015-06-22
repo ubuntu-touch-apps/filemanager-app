@@ -1,0 +1,510 @@
+# Chinese (Traditional) translation for ubuntu-filemanager-app
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the ubuntu-filemanager-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-filemanager-app\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-03-12 21:23+0100\n"
+"PO-Revision-Date: 2015-03-01 07:48+0000\n"
+"Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <zh_TW@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Launchpad-Export-Date: 2015-05-02 05:27+0000\n"
+"X-Generator: Launchpad (build 17474)\n"
+
+#: ../src/app/qml/components/FolderIconView.qml:57
+#: ../src/app/qml/components/FolderListView.qml:35
+#, qt-format
+msgid "%1 (%2 file)"
+msgid_plural "%1 (%2 files)"
+msgstr[0] "%1 (%2 檔案)"
+
+#: ../src/app/qml/components/PathHistoryRow.qml:84
+#: ../src/app/qml/ui/FolderListPage.qml:830
+msgid "Device"
+msgstr "裝置"
+
+#: ../src/app/qml/components/PlacesSidebar.qml:53
+#: ../src/app/qml/ui/FolderListPage.qml:31 ../src/app/qml/ui/PlacesPage.qml:27
+#: ../src/app/qml/ui/PlacesPopover.qml:102
+msgid "Places"
+msgstr "地方"
+
+#: ../src/app/qml/content-hub/FileOpener.qml:27
+msgid "Open with"
+msgstr "以此開啟："
+
+#: ../src/app/qml/filemanager.qml:81 ../src/app/qml/ui/FolderListPage.qml:107
+#: ../src/app/qml/ui/SettingsSheet.qml:31
+msgid "Settings"
+msgstr "設定"
+
+#: ../src/app/qml/filemanager.qml:82
+msgid "Change app settings"
+msgstr "變更程式設定"
+
+#: ../src/app/qml/filemanager.qml:259 ../src/app/qml/ui/FolderListPage.qml:365
+#: ../src/app/qml/ui/ViewPopover.qml:70
+msgid "Icons"
+msgstr "圖示"
+
+#: ../src/app/qml/filemanager.qml:259 ../src/app/qml/ui/FolderListPage.qml:381
+#: ../src/app/qml/ui/ViewPopover.qml:71
+msgid "List"
+msgstr "清單"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:25
+msgid "Authentication required"
+msgstr "要求核對身分"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:27
+msgid "Password is required to access all files"
+msgstr "需要密碼才能存取所有檔案"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:39
+msgid "password"
+msgstr "密碼"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:49
+#: ../src/app/qml/ui/ConfirmDialog.qml:31
+#: ../src/app/qml/ui/ConfirmDialogWithInput.qml:47
+#: ../src/app/qml/ui/NotifyDialog.qml:25
+msgid "Ok"
+msgstr "確定"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:60
+#: ../src/app/qml/ui/ConfirmDialog.qml:41
+#: ../src/app/qml/ui/ConfirmDialogWithInput.qml:57
+#: ../src/app/qml/ui/FileActionDialog.qml:45
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:44
+#: ../src/app/qml/ui/FolderListPage.qml:343
+#: ../src/app/qml/ui/FolderListPage.qml:673
+#: ../src/app/qml/ui/FolderListPage.qml:740
+#: ../src/app/qml/ui/GoToDialog.qml:67
+msgid "Cancel"
+msgstr "取消"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:30
+msgid "Choose action"
+msgstr "選擇圖示"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:31
+#, qt-format
+msgid "For file: %1"
+msgstr "對於檔案：%1"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:35
+msgid "Open"
+msgstr "使用中"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:37
+msgid "Readable"
+msgstr "可讀取"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:40
+msgid "Writable"
+msgstr "可寫入"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:43
+msgid "Executable"
+msgstr "可執行"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:91
+msgid "Path:"
+msgstr "路徑："
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:102
+msgid "Contents:"
+msgstr "內容："
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:103
+msgid "Size:"
+msgstr "大小："
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:112
+msgid "Accessed:"
+msgstr "最後存取："
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:121
+msgid "Modified:"
+msgstr "最後修改："
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:130
+msgid "Permissions:"
+msgstr "權限："
+
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:27
+msgid "Operation in progress"
+msgstr "操作進行中"
+
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:29
+msgid "File operation"
+msgstr "檔案操作"
+
+#: ../src/app/qml/ui/FolderListPage.qml:57
+#, qt-format
+msgid "Paste %1 File"
+msgid_plural "Paste %1 Files"
+msgstr[0] "貼上 %1 個檔案"
+
+#: ../src/app/qml/ui/FolderListPage.qml:61
+msgid "Paste files"
+msgstr "貼上檔案"
+
+#: ../src/app/qml/ui/FolderListPage.qml:69
+msgid "Clear clipboard"
+msgstr "清除剪貼簿"
+
+#: ../src/app/qml/ui/FolderListPage.qml:79
+#: ../src/app/qml/ui/FolderListPage.qml:97
+#: ../src/app/qml/ui/FolderListPage.qml:610
+msgid "Properties"
+msgstr "屬性"
+
+#: ../src/app/qml/ui/FolderListPage.qml:88
+msgid "New Folder"
+msgstr "新增資料夾"
+
+#: ../src/app/qml/ui/FolderListPage.qml:115
+msgid "Go To"
+msgstr "前往"
+
+#: ../src/app/qml/ui/FolderListPage.qml:122
+msgid "Unlock full access"
+msgstr "解鎖以作完整存取"
+
+#: ../src/app/qml/ui/FolderListPage.qml:136
+msgid "Authentication failed"
+msgstr "身分核對失敗"
+
+#: ../src/app/qml/ui/FolderListPage.qml:206
+#, qt-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] "%1 個檔案"
+
+#: ../src/app/qml/ui/FolderListPage.qml:240
+msgid "Open in a new tab"
+msgstr "在新分頁開啟"
+
+#: ../src/app/qml/ui/FolderListPage.qml:248
+msgid "Close this tab"
+msgstr "關閉此分頁"
+
+#: ../src/app/qml/ui/FolderListPage.qml:261
+msgid "Create folder"
+msgstr "建立資料夾"
+
+#: ../src/app/qml/ui/FolderListPage.qml:262
+msgid "Enter name for new folder"
+msgstr "為新資料夾輸入名稱"
+
+#: ../src/app/qml/ui/FolderListPage.qml:278
+msgid "Create file"
+msgstr "建立檔案"
+
+#: ../src/app/qml/ui/FolderListPage.qml:279
+msgid "Enter name for new file"
+msgstr "為新檔案輸入名稱"
+
+#: ../src/app/qml/ui/FolderListPage.qml:328
+msgid "Select"
+msgstr "選取"
+
+#: ../src/app/qml/ui/FolderListPage.qml:425
+msgid "No files"
+msgstr "無檔案"
+
+#: ../src/app/qml/ui/FolderListPage.qml:445
+#: ../src/app/qml/ui/FolderListPage.qml:571
+msgid "Delete"
+msgstr "刪除"
+
+#: ../src/app/qml/ui/FolderListPage.qml:446
+#, qt-format
+msgid "Are you sure you want to permanently delete '%1'?"
+msgstr "是否確定永久刪除「%1」？"
+
+#: ../src/app/qml/ui/FolderListPage.qml:451
+msgid "Deleting files"
+msgstr "刪除檔案中"
+
+#: ../src/app/qml/ui/FolderListPage.qml:469
+#: ../src/app/qml/ui/FolderListPage.qml:584
+msgid "Rename"
+msgstr "改名"
+
+#: ../src/app/qml/ui/FolderListPage.qml:470
+msgid "Enter a new name"
+msgstr "輸入新名稱"
+
+#: ../src/app/qml/ui/FolderListPage.qml:479
+msgid "Could not rename"
+msgstr "無法改名"
+
+#: ../src/app/qml/ui/FolderListPage.qml:480
+msgid "Insufficient permissions or name already exists?"
+msgstr "權限是否不足？或已有同名檔案？"
+
+#: ../src/app/qml/ui/FolderListPage.qml:498
+msgid "Extract Archive"
+msgstr "解開封存檔"
+
+#: ../src/app/qml/ui/FolderListPage.qml:499
+#, qt-format
+msgid "Are you sure you want to extract '%1' here?"
+msgstr "您確定要解開「%1」並將檔案放到這裡？"
+
+#: ../src/app/qml/ui/FolderListPage.qml:548
+msgid "Cut"
+msgstr "剪下"
+
+#: ../src/app/qml/ui/FolderListPage.qml:559
+msgid "Copy"
+msgstr "複製"
+
+#: ../src/app/qml/ui/FolderListPage.qml:599
+#: ../src/app/qml/ui/FolderListPage.qml:720
+msgid "Extract archive"
+msgstr "解開封存檔"
+
+#: ../src/app/qml/ui/FolderListPage.qml:630
+msgid "File operation error"
+msgstr "檔案操作錯誤"
+
+#: ../src/app/qml/ui/FolderListPage.qml:661
+#, qt-format
+msgid "Extracting archive '%1'"
+msgstr "正在解開「%1」封存檔"
+
+#: ../src/app/qml/ui/FolderListPage.qml:682
+msgid "OK"
+msgstr "確定"
+
+#: ../src/app/qml/ui/FolderListPage.qml:697
+msgid "Extracting failed"
+msgstr "解開失敗"
+
+#: ../src/app/qml/ui/FolderListPage.qml:698
+#, qt-format
+msgid "Extracting the archive '%1' failed."
+msgstr "「%1」封存檔解開失敗。"
+
+#: ../src/app/qml/ui/FolderListPage.qml:712
+msgid "Archive file"
+msgstr "封存檔案"
+
+#: ../src/app/qml/ui/FolderListPage.qml:713
+msgid "Do you want to extract the archive here?"
+msgstr "您是否要解開封存檔並將檔案放到這裡？"
+
+#: ../src/app/qml/ui/FolderListPage.qml:730
+msgid "Open with another app"
+msgstr "以其他 App 開啟"
+
+#: ../src/app/qml/ui/FolderListPage.qml:798
+msgid "~/Desktop"
+msgstr "~/桌面"
+
+#: ../src/app/qml/ui/FolderListPage.qml:808
+msgid "~/Public"
+msgstr "~/公共"
+
+#: ../src/app/qml/ui/FolderListPage.qml:810
+msgid "~/Programs"
+msgstr "~/程式"
+
+#: ../src/app/qml/ui/FolderListPage.qml:812
+msgid "~/Templates"
+msgstr "~/模版"
+
+#: ../src/app/qml/ui/FolderListPage.qml:828
+msgid "Home"
+msgstr "家屋"
+
+#: ../src/app/qml/ui/FolderListPage.qml:898
+msgid "Folder not accessible"
+msgstr "無法存取資料夾"
+
+#. TRANSLATORS: this refers to a folder name
+#: ../src/app/qml/ui/FolderListPage.qml:900
+#, qt-format
+msgid "Can not access %1"
+msgstr "無法存取 %1"
+
+#: ../src/app/qml/ui/GoToDialog.qml:26
+msgid "Go To Location"
+msgstr "前往位置"
+
+#: ../src/app/qml/ui/GoToDialog.qml:28
+msgid "Enter a location to go to:"
+msgstr "輸入要前往的位置："
+
+#: ../src/app/qml/ui/GoToDialog.qml:45 ../src/app/qml/ui/PlacesPage.qml:63
+#: ../src/app/qml/ui/PlacesPopover.qml:66
+msgid "Location..."
+msgstr "位置..."
+
+#: ../src/app/qml/ui/GoToDialog.qml:54 ../src/app/qml/ui/PlacesPage.qml:78
+#: ../src/app/qml/ui/PlacesPopover.qml:81
+msgid "Go"
+msgstr "前往"
+
+#: ../src/app/qml/ui/SettingsSheet.qml:34
+msgid "Close"
+msgstr "關閉"
+
+#: ../src/app/qml/ui/SettingsSheet.qml:43
+msgid "Show Advanced Features"
+msgstr "顯示進階功能"
+
+#: ../src/app/qml/ui/ViewPopover.qml:39
+msgid "Show Hidden Files"
+msgstr "顯示隱藏檔"
+
+#: ../src/app/qml/ui/ViewPopover.qml:59
+msgid "View As"
+msgstr "檢視為"
+
+#: ../src/app/qml/ui/ViewPopover.qml:81
+msgid "Sort By"
+msgstr "排序依"
+
+#: ../src/app/qml/ui/ViewPopover.qml:92
+msgid "Name"
+msgstr "名稱"
+
+#: ../src/app/qml/ui/ViewPopover.qml:93
+msgid "Date"
+msgstr "日期"
+
+#: ../src/app/qml/ui/ViewPopover.qml:103
+msgid "Sort Order"
+msgstr "排序方式"
+
+#: ../src/app/qml/ui/ViewPopover.qml:114 ../src/app/qml/ui/ViewPopover.qml:119
+msgid "Ascending"
+msgstr "升序"
+
+#: ../src/app/qml/ui/ViewPopover.qml:115
+msgid "Descending"
+msgstr "降序"
+
+#: ../src/app/qml/ui/ViewPopover.qml:127
+msgid "Filter"
+msgstr "篩選"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:418
+msgid "path or url may not exist or cannot be read"
+msgstr "此路徑或網址不存在，或無法讀取"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:585
+msgid "Rename error"
+msgstr "改名時出錯"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:610
+msgid "Error creating new folder"
+msgstr "新增資料夾時出錯"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:1252
+msgid "items"
+msgstr "項目"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:263
+msgid "File or Directory does not exist"
+msgstr "此檔案或目錄不存在"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:264
+msgid " does not exist"
+msgstr " 不存在"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:590
+msgid "Could not remove the item "
+msgstr "無法移除此項目 "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:631
+msgid "Could not find a suitable name to backup"
+msgstr "找不到合適名稱作備份"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:685
+msgid "Could not create the directory"
+msgstr "無法建立目錄"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:694
+msgid "Could not create link to"
+msgstr "無法建立此項目的連結："
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:706
+msgid "Could not set permissions to dir"
+msgstr "無法設定此目錄的權限："
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:720
+msgid "Could not open file"
+msgstr "無法開啟檔案"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:739
+msgid "There is no space on disk to copy"
+msgstr "無空間以複製："
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:749
+msgid "Could not create file"
+msgstr "無法建立檔案"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:813
+msgid "Could not remove the directory/file "
+msgstr "無法移除此目錄／檔案： "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:829
+msgid "Could not move the directory/file "
+msgstr "無法移動此目錄／檔案： "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:863
+msgid "Cannot copy items"
+msgstr "無法複製項目"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:864
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:883
+msgid "no write permission on folder "
+msgstr "無此資料夾的寫入權限： "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:882
+msgid "Cannot move items"
+msgstr "無法移動項目"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:888
+msgid "origin and destination folders are the same"
+msgstr "來源和目的地資料夾相同"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1104
+msgid "Write error in "
+msgstr "寫入此項目時出錯： "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1120
+msgid "Read error in "
+msgstr "讀取此項目時出錯： "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1354
+msgid " Copy"
+msgstr " 複製"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1410
+msgid "Set permissions error in "
+msgstr "設定此項目權限時出錯： "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1494
+msgid "Could not create trash info file"
+msgstr "無法建立回收筒資訊檔"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1507
+msgid "Could not remove the trash info file"
+msgstr "無法移除回收筒資訊檔"
+
+#: com.ubuntu.filemanager.desktop.in.in.h:1
+msgid "File Manager"
+msgstr "檔案管理員"

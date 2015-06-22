@@ -1,0 +1,513 @@
+# Amharic translation for ubuntu-filemanager-app
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the ubuntu-filemanager-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-filemanager-app\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-03-12 21:23+0100\n"
+"PO-Revision-Date: 2015-03-08 22:15+0000\n"
+"Last-Translator: samson <Unknown>\n"
+"Language-Team: Amharic <am@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Launchpad-Export-Date: 2015-05-02 05:27+0000\n"
+"X-Generator: Launchpad (build 17474)\n"
+
+#: ../src/app/qml/components/FolderIconView.qml:57
+#: ../src/app/qml/components/FolderListView.qml:35
+#, qt-format
+msgid "%1 (%2 file)"
+msgid_plural "%1 (%2 files)"
+msgstr[0] "%1 (%2 ፋይል)"
+msgstr[1] "%1 (%2 ፋይሎች)"
+
+#: ../src/app/qml/components/PathHistoryRow.qml:84
+#: ../src/app/qml/ui/FolderListPage.qml:830
+msgid "Device"
+msgstr "አካል"
+
+#: ../src/app/qml/components/PlacesSidebar.qml:53
+#: ../src/app/qml/ui/FolderListPage.qml:31 ../src/app/qml/ui/PlacesPage.qml:27
+#: ../src/app/qml/ui/PlacesPopover.qml:102
+msgid "Places"
+msgstr "ቦታዎች"
+
+#: ../src/app/qml/content-hub/FileOpener.qml:27
+msgid "Open with"
+msgstr "መክፈቻ በ"
+
+#: ../src/app/qml/filemanager.qml:81 ../src/app/qml/ui/FolderListPage.qml:107
+#: ../src/app/qml/ui/SettingsSheet.qml:31
+msgid "Settings"
+msgstr "ማሰናጃ"
+
+#: ../src/app/qml/filemanager.qml:82
+msgid "Change app settings"
+msgstr "የ መተግበሪያ ማሰናጃ መቀየሪያ"
+
+#: ../src/app/qml/filemanager.qml:259 ../src/app/qml/ui/FolderListPage.qml:365
+#: ../src/app/qml/ui/ViewPopover.qml:70
+msgid "Icons"
+msgstr "ምልክቶች"
+
+#: ../src/app/qml/filemanager.qml:259 ../src/app/qml/ui/FolderListPage.qml:381
+#: ../src/app/qml/ui/ViewPopover.qml:71
+msgid "List"
+msgstr "ዝርዝር"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:25
+msgid "Authentication required"
+msgstr "ማረጋገጫ ያስፈልጋል"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:27
+msgid "Password is required to access all files"
+msgstr "የመግቢያ ቃል ያስፈልጋል ሁሉም ፋይሎች ጋር ለመድረስ"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:39
+msgid "password"
+msgstr "የመግቢያ ቃል"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:49
+#: ../src/app/qml/ui/ConfirmDialog.qml:31
+#: ../src/app/qml/ui/ConfirmDialogWithInput.qml:47
+#: ../src/app/qml/ui/NotifyDialog.qml:25
+msgid "Ok"
+msgstr "እሺ"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:60
+#: ../src/app/qml/ui/ConfirmDialog.qml:41
+#: ../src/app/qml/ui/ConfirmDialogWithInput.qml:57
+#: ../src/app/qml/ui/FileActionDialog.qml:45
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:44
+#: ../src/app/qml/ui/FolderListPage.qml:343
+#: ../src/app/qml/ui/FolderListPage.qml:673
+#: ../src/app/qml/ui/FolderListPage.qml:740
+#: ../src/app/qml/ui/GoToDialog.qml:67
+msgid "Cancel"
+msgstr "መሰረዣ"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:30
+msgid "Choose action"
+msgstr "ተግባር መምረጫ"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:31
+#, qt-format
+msgid "For file: %1"
+msgstr "ለ ፋይል: %1"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:35
+msgid "Open"
+msgstr "መክፈቻ"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:37
+msgid "Readable"
+msgstr "ማንበብ የሚያስችል"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:40
+msgid "Writable"
+msgstr "መጻፍ የሚያስችል"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:43
+msgid "Executable"
+msgstr "መፈጸሚያ"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:91
+msgid "Path:"
+msgstr "መንገድ:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:102
+msgid "Contents:"
+msgstr "ይዞታዎች:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:103
+msgid "Size:"
+msgstr "መጠን:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:112
+msgid "Accessed:"
+msgstr "የተደረሰበት:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:121
+msgid "Modified:"
+msgstr "የተሻሻለው:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:130
+msgid "Permissions:"
+msgstr "ፍቃዶች:"
+
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:27
+msgid "Operation in progress"
+msgstr "ተግባሮች በ ሂደት ላይ"
+
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:29
+msgid "File operation"
+msgstr "የ ፋይል ተግባር"
+
+#: ../src/app/qml/ui/FolderListPage.qml:57
+#, qt-format
+msgid "Paste %1 File"
+msgid_plural "Paste %1 Files"
+msgstr[0] "መለጠፊያ %1 ፋይል"
+msgstr[1] "መለጠፊያ %1 ፋይሎች"
+
+#: ../src/app/qml/ui/FolderListPage.qml:61
+msgid "Paste files"
+msgstr "ፋይሎች መለጠፊያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:69
+msgid "Clear clipboard"
+msgstr "ቁራጭ ሰሌዳ ማጽጃ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:79
+#: ../src/app/qml/ui/FolderListPage.qml:97
+#: ../src/app/qml/ui/FolderListPage.qml:610
+msgid "Properties"
+msgstr "ባህሪዎች"
+
+#: ../src/app/qml/ui/FolderListPage.qml:88
+msgid "New Folder"
+msgstr "አዲስ ፎልደር"
+
+#: ../src/app/qml/ui/FolderListPage.qml:115
+msgid "Go To"
+msgstr "መሄጃ ወደ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:122
+msgid "Unlock full access"
+msgstr "ሙሉ መድረሻ መክፈቻ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:136
+msgid "Authentication failed"
+msgstr "ማረጋገጫው ወድቋል"
+
+#: ../src/app/qml/ui/FolderListPage.qml:206
+#, qt-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] "%1 ፋይል"
+msgstr[1] "%1 ፋይሎች"
+
+#: ../src/app/qml/ui/FolderListPage.qml:240
+msgid "Open in a new tab"
+msgstr "በ አዲስ ንዑስ መስኮት መክፈቻ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:248
+msgid "Close this tab"
+msgstr "ይህን ንዑስ መስኮት መዝጊያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:261
+msgid "Create folder"
+msgstr "ፎልደር መፍጠሪያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:262
+msgid "Enter name for new folder"
+msgstr "ለ አዲሱ ፎልደር ስም ያስገቡ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:278
+msgid "Create file"
+msgstr "ፋይል መፍጠሪያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:279
+msgid "Enter name for new file"
+msgstr "ለ አዲሱ ፋይል ስም ያስገቡ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:328
+msgid "Select"
+msgstr "ይምረጡ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:425
+msgid "No files"
+msgstr "ፋይሎች የሉም"
+
+#: ../src/app/qml/ui/FolderListPage.qml:445
+#: ../src/app/qml/ui/FolderListPage.qml:571
+msgid "Delete"
+msgstr "ማጥፊያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:446
+#, qt-format
+msgid "Are you sure you want to permanently delete '%1'?"
+msgstr "በእርግጥ በቋሚነት ማጥፋት ይፈልጋሉ '%1'?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:451
+msgid "Deleting files"
+msgstr "ፋይሎቹን በማጥፋት ላይ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:469
+#: ../src/app/qml/ui/FolderListPage.qml:584
+msgid "Rename"
+msgstr "እንደገና መሰየሚያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:470
+msgid "Enter a new name"
+msgstr "አዲስ ስም ያስገቡ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:479
+msgid "Could not rename"
+msgstr "መሰየም አልተቻለም"
+
+#: ../src/app/qml/ui/FolderListPage.qml:480
+msgid "Insufficient permissions or name already exists?"
+msgstr "በቂ ያልሆነ ፍቃድ ወይንም ስም ቀደም ሲል ነበር?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:498
+msgid "Extract Archive"
+msgstr "ማህደር ማራገፊያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:499
+#, qt-format
+msgid "Are you sure you want to extract '%1' here?"
+msgstr "በ እርግጥ እዚህ ማረገፍ '%1' ይፈልጋሉ?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:548
+msgid "Cut"
+msgstr "መቁረጫ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:559
+msgid "Copy"
+msgstr "ኮፒ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:599
+#: ../src/app/qml/ui/FolderListPage.qml:720
+msgid "Extract archive"
+msgstr "ማህደር ማራገፊያ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:630
+msgid "File operation error"
+msgstr "የ ፋይል ተግባር ስህተት"
+
+#: ../src/app/qml/ui/FolderListPage.qml:661
+#, qt-format
+msgid "Extracting archive '%1'"
+msgstr "ማህደር በማራገፍ ላይ '%1'"
+
+#: ../src/app/qml/ui/FolderListPage.qml:682
+msgid "OK"
+msgstr "እሺ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:697
+msgid "Extracting failed"
+msgstr "ማረገፍ አልተቻለም"
+
+#: ../src/app/qml/ui/FolderListPage.qml:698
+#, qt-format
+msgid "Extracting the archive '%1' failed."
+msgstr "ማህደሩን ማረገፍ '%1' አልተቻለም."
+
+#: ../src/app/qml/ui/FolderListPage.qml:712
+msgid "Archive file"
+msgstr "የ ማህደር ፋይል"
+
+#: ../src/app/qml/ui/FolderListPage.qml:713
+msgid "Do you want to extract the archive here?"
+msgstr "ማህደሩን እዚህ ማራገፍ ይፈልጋሉ?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:730
+msgid "Open with another app"
+msgstr "በሌላ መተግበሪያ መክፈቻ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:798
+msgid "~/Desktop"
+msgstr "~/ዴስክቶፕ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:808
+msgid "~/Public"
+msgstr "~/ሕዝብ"
+
+#: ../src/app/qml/ui/FolderListPage.qml:810
+msgid "~/Programs"
+msgstr "~/ፕሮግራሞች"
+
+#: ../src/app/qml/ui/FolderListPage.qml:812
+msgid "~/Templates"
+msgstr "~/ቴምፕሌቶች"
+
+#: ../src/app/qml/ui/FolderListPage.qml:828
+msgid "Home"
+msgstr "ቤት"
+
+#: ../src/app/qml/ui/FolderListPage.qml:898
+msgid "Folder not accessible"
+msgstr "ፎልደር ጋር መድረስ አልተቻለም"
+
+#. TRANSLATORS: this refers to a folder name
+#: ../src/app/qml/ui/FolderListPage.qml:900
+#, qt-format
+msgid "Can not access %1"
+msgstr "መድረስ አልተቻለም %1"
+
+#: ../src/app/qml/ui/GoToDialog.qml:26
+msgid "Go To Location"
+msgstr "ወደ አካባቢው መሄጃ"
+
+#: ../src/app/qml/ui/GoToDialog.qml:28
+msgid "Enter a location to go to:"
+msgstr "አካባቢ ያስገቡ ለመሄድ ወደ:"
+
+#: ../src/app/qml/ui/GoToDialog.qml:45 ../src/app/qml/ui/PlacesPage.qml:63
+#: ../src/app/qml/ui/PlacesPopover.qml:66
+msgid "Location..."
+msgstr "አካባቢ..."
+
+#: ../src/app/qml/ui/GoToDialog.qml:54 ../src/app/qml/ui/PlacesPage.qml:78
+#: ../src/app/qml/ui/PlacesPopover.qml:81
+msgid "Go"
+msgstr "መሄጃ"
+
+#: ../src/app/qml/ui/SettingsSheet.qml:34
+msgid "Close"
+msgstr "መዝጊያ"
+
+#: ../src/app/qml/ui/SettingsSheet.qml:43
+msgid "Show Advanced Features"
+msgstr "የ ረቀቀ ገጽታዎችን ማሳያ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:39
+msgid "Show Hidden Files"
+msgstr "የተደበቁ ፋይሎች ማሳያ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:59
+msgid "View As"
+msgstr "ማሳያ እንደ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:81
+msgid "Sort By"
+msgstr "መለያ በ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:92
+msgid "Name"
+msgstr "ስም"
+
+#: ../src/app/qml/ui/ViewPopover.qml:93
+msgid "Date"
+msgstr "ቀን"
+
+#: ../src/app/qml/ui/ViewPopover.qml:103
+msgid "Sort Order"
+msgstr "መለያ ደንብ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:114 ../src/app/qml/ui/ViewPopover.qml:119
+msgid "Ascending"
+msgstr "እየጨመረ የሚሄድ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:115
+msgid "Descending"
+msgstr "እየቀነስ የሚሄድ"
+
+#: ../src/app/qml/ui/ViewPopover.qml:127
+msgid "Filter"
+msgstr "ማጣሪያ"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:418
+msgid "path or url may not exist or cannot be read"
+msgstr "መንገድ ወይንም url አልተገኘም ወይንም ማንበብ አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:585
+msgid "Rename error"
+msgstr "እንደገና የመሰየም ስህተት"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:610
+msgid "Error creating new folder"
+msgstr "አዲስ ፎልደር በ መፍጠር ላይ እንዳለ ስህተት ተፈጥሯል"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:1252
+msgid "items"
+msgstr "አካሎች"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:263
+msgid "File or Directory does not exist"
+msgstr "ፋይል ወይንም ዳይሬክቶሪ አልተገኘም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:264
+msgid " does not exist"
+msgstr " አልነበረም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:590
+msgid "Could not remove the item "
+msgstr "አካሉን ማስወገድ አልተቻለም "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:631
+msgid "Could not find a suitable name to backup"
+msgstr "ለ ተተኪው የሚሆን ተስማሚ ስም አልተገኘም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:685
+msgid "Could not create the directory"
+msgstr "ዳይሬክቶሪ መፍጠር አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:694
+msgid "Could not create link to"
+msgstr "አገናኝ መፍጠር አልተቻለም ወደ"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:706
+msgid "Could not set permissions to dir"
+msgstr "ፍቃዶች ማሰናዳት አልተቻለም ወደ ዳይሬክቶሪ"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:720
+msgid "Could not open file"
+msgstr "ፋይሉን መክፈት አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:739
+msgid "There is no space on disk to copy"
+msgstr "ኮፒ ለማድረግ በ ዲስኩ ላይ በቂ ነፃ ቦታ የለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:749
+msgid "Could not create file"
+msgstr "ፋይል መፍጠር አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:813
+msgid "Could not remove the directory/file "
+msgstr "ማስወገድ አልተቻለም የ ዳይሬክቶሪ/ፋይል "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:829
+msgid "Could not move the directory/file "
+msgstr "ማንቀሳቀስ አልተቻለም የ ዳይሬክቶሪ/ፋይል "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:863
+msgid "Cannot copy items"
+msgstr "አካሎቹን ኮፒ ማድረግ አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:864
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:883
+msgid "no write permission on folder "
+msgstr "በ ፎልደሩ ላይ የ መጻፍ ፍቃድ የሎትም "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:882
+msgid "Cannot move items"
+msgstr "አካሎቹን ማንቀሳቀስ አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:888
+msgid "origin and destination folders are the same"
+msgstr "የ ፎልደሮች መነሻ እና መድረሻ ተመሳሳይ ነው"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1104
+msgid "Write error in "
+msgstr "የ መጻፍ ስህተት በ "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1120
+msgid "Read error in "
+msgstr "የ ማንበብ ስህተት በ "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1354
+msgid " Copy"
+msgstr " ኮፒ"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1410
+msgid "Set permissions error in "
+msgstr "የ ፍቃድ ማሰናጃ ስህተት በ "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1494
+msgid "Could not create trash info file"
+msgstr "የ ቆሻሻ መረጃ ፋይል መፍጠር አልተቻለም"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1507
+msgid "Could not remove the trash info file"
+msgstr "የ ቆሻሻ መረጃ ፋይል ማስወገድ አልተቻለም"
+
+#: com.ubuntu.filemanager.desktop.in.in.h:1
+msgid "File Manager"
+msgstr "የ ፋይል አስተዳዳሪ"

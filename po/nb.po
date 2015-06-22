@@ -1,0 +1,513 @@
+# Norwegian Bokmal translation for ubuntu-filemanager-app
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the ubuntu-filemanager-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-filemanager-app\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-03-12 21:23+0100\n"
+"PO-Revision-Date: 2015-03-31 15:18+0000\n"
+"Last-Translator: Mathias Bynke <Unknown>\n"
+"Language-Team: Norwegian Bokmal <nb@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Launchpad-Export-Date: 2015-05-02 05:27+0000\n"
+"X-Generator: Launchpad (build 17474)\n"
+
+#: ../src/app/qml/components/FolderIconView.qml:57
+#: ../src/app/qml/components/FolderListView.qml:35
+#, qt-format
+msgid "%1 (%2 file)"
+msgid_plural "%1 (%2 files)"
+msgstr[0] "%1 (%2 fil)"
+msgstr[1] "%1 (%2 filer)"
+
+#: ../src/app/qml/components/PathHistoryRow.qml:84
+#: ../src/app/qml/ui/FolderListPage.qml:830
+msgid "Device"
+msgstr "Enhet"
+
+#: ../src/app/qml/components/PlacesSidebar.qml:53
+#: ../src/app/qml/ui/FolderListPage.qml:31 ../src/app/qml/ui/PlacesPage.qml:27
+#: ../src/app/qml/ui/PlacesPopover.qml:102
+msgid "Places"
+msgstr "Steder"
+
+#: ../src/app/qml/content-hub/FileOpener.qml:27
+msgid "Open with"
+msgstr "Åpne med"
+
+#: ../src/app/qml/filemanager.qml:81 ../src/app/qml/ui/FolderListPage.qml:107
+#: ../src/app/qml/ui/SettingsSheet.qml:31
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../src/app/qml/filemanager.qml:82
+msgid "Change app settings"
+msgstr "Endre programinnstillinger"
+
+#: ../src/app/qml/filemanager.qml:259 ../src/app/qml/ui/FolderListPage.qml:365
+#: ../src/app/qml/ui/ViewPopover.qml:70
+msgid "Icons"
+msgstr "Ikoner"
+
+#: ../src/app/qml/filemanager.qml:259 ../src/app/qml/ui/FolderListPage.qml:381
+#: ../src/app/qml/ui/ViewPopover.qml:71
+msgid "List"
+msgstr "Liste"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:25
+msgid "Authentication required"
+msgstr "Autentisering kreves"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:27
+msgid "Password is required to access all files"
+msgstr "Passord kreves for å få tilgang til alle filene"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:39
+msgid "password"
+msgstr "passord"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:49
+#: ../src/app/qml/ui/ConfirmDialog.qml:31
+#: ../src/app/qml/ui/ConfirmDialogWithInput.qml:47
+#: ../src/app/qml/ui/NotifyDialog.qml:25
+msgid "Ok"
+msgstr "OK"
+
+#: ../src/app/qml/ui/AuthenticationDialog.qml:60
+#: ../src/app/qml/ui/ConfirmDialog.qml:41
+#: ../src/app/qml/ui/ConfirmDialogWithInput.qml:57
+#: ../src/app/qml/ui/FileActionDialog.qml:45
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:44
+#: ../src/app/qml/ui/FolderListPage.qml:343
+#: ../src/app/qml/ui/FolderListPage.qml:673
+#: ../src/app/qml/ui/FolderListPage.qml:740
+#: ../src/app/qml/ui/GoToDialog.qml:67
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:30
+msgid "Choose action"
+msgstr "Velg handling"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:31
+#, qt-format
+msgid "For file: %1"
+msgstr "For fil: %1"
+
+#: ../src/app/qml/ui/FileActionDialog.qml:35
+msgid "Open"
+msgstr "Åpen"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:37
+msgid "Readable"
+msgstr "Lesbar"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:40
+msgid "Writable"
+msgstr "Skrivbar"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:43
+msgid "Executable"
+msgstr "Kjørbar"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:91
+msgid "Path:"
+msgstr "Sti:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:102
+msgid "Contents:"
+msgstr "Innhold:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:103
+msgid "Size:"
+msgstr "Størrelse:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:112
+msgid "Accessed:"
+msgstr "Brukt:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:121
+msgid "Modified:"
+msgstr "Endret:"
+
+#: ../src/app/qml/ui/FileDetailsPopover.qml:130
+msgid "Permissions:"
+msgstr "Tillatelser:"
+
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:27
+msgid "Operation in progress"
+msgstr "Handling pågår"
+
+#: ../src/app/qml/ui/FileOperationProgressDialog.qml:29
+msgid "File operation"
+msgstr "Filhandling"
+
+#: ../src/app/qml/ui/FolderListPage.qml:57
+#, qt-format
+msgid "Paste %1 File"
+msgid_plural "Paste %1 Files"
+msgstr[0] "Lim inn %1 fil"
+msgstr[1] "Lim inn %1 filer"
+
+#: ../src/app/qml/ui/FolderListPage.qml:61
+msgid "Paste files"
+msgstr "Lim inn filer"
+
+#: ../src/app/qml/ui/FolderListPage.qml:69
+msgid "Clear clipboard"
+msgstr "Tøm utklippstavlen"
+
+#: ../src/app/qml/ui/FolderListPage.qml:79
+#: ../src/app/qml/ui/FolderListPage.qml:97
+#: ../src/app/qml/ui/FolderListPage.qml:610
+msgid "Properties"
+msgstr "Egenskaper"
+
+#: ../src/app/qml/ui/FolderListPage.qml:88
+msgid "New Folder"
+msgstr "Ny mappe"
+
+#: ../src/app/qml/ui/FolderListPage.qml:115
+msgid "Go To"
+msgstr "Gå til"
+
+#: ../src/app/qml/ui/FolderListPage.qml:122
+msgid "Unlock full access"
+msgstr "Lås opp full tilgang"
+
+#: ../src/app/qml/ui/FolderListPage.qml:136
+msgid "Authentication failed"
+msgstr "Autentisering mislyktes"
+
+#: ../src/app/qml/ui/FolderListPage.qml:206
+#, qt-format
+msgid "%1 file"
+msgid_plural "%1 files"
+msgstr[0] "%1 fil"
+msgstr[1] "%1 filer"
+
+#: ../src/app/qml/ui/FolderListPage.qml:240
+msgid "Open in a new tab"
+msgstr "Åpne i ny fane"
+
+#: ../src/app/qml/ui/FolderListPage.qml:248
+msgid "Close this tab"
+msgstr "Lukk denne fanen"
+
+#: ../src/app/qml/ui/FolderListPage.qml:261
+msgid "Create folder"
+msgstr "Ny mappe"
+
+#: ../src/app/qml/ui/FolderListPage.qml:262
+msgid "Enter name for new folder"
+msgstr "Gi den nye mappa et navn"
+
+#: ../src/app/qml/ui/FolderListPage.qml:278
+msgid "Create file"
+msgstr "Lag fil"
+
+#: ../src/app/qml/ui/FolderListPage.qml:279
+msgid "Enter name for new file"
+msgstr "Gi den nye fila et navn"
+
+#: ../src/app/qml/ui/FolderListPage.qml:328
+msgid "Select"
+msgstr "Velg"
+
+#: ../src/app/qml/ui/FolderListPage.qml:425
+msgid "No files"
+msgstr "Ingen filer"
+
+#: ../src/app/qml/ui/FolderListPage.qml:445
+#: ../src/app/qml/ui/FolderListPage.qml:571
+msgid "Delete"
+msgstr "Slett"
+
+#: ../src/app/qml/ui/FolderListPage.qml:446
+#, qt-format
+msgid "Are you sure you want to permanently delete '%1'?"
+msgstr "Er du sikker på at du vil slette «%1» permanent?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:451
+msgid "Deleting files"
+msgstr "Sletter filer"
+
+#: ../src/app/qml/ui/FolderListPage.qml:469
+#: ../src/app/qml/ui/FolderListPage.qml:584
+msgid "Rename"
+msgstr "Gi nytt navn"
+
+#: ../src/app/qml/ui/FolderListPage.qml:470
+msgid "Enter a new name"
+msgstr "Skriv inn et nytt navn"
+
+#: ../src/app/qml/ui/FolderListPage.qml:479
+msgid "Could not rename"
+msgstr "Klarte ikke å gi nytt navn"
+
+#: ../src/app/qml/ui/FolderListPage.qml:480
+msgid "Insufficient permissions or name already exists?"
+msgstr "Mangler du tilgang? Er det nye navnet i bruk allerede?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:498
+msgid "Extract Archive"
+msgstr "Pakk ut arkiv"
+
+#: ../src/app/qml/ui/FolderListPage.qml:499
+#, qt-format
+msgid "Are you sure you want to extract '%1' here?"
+msgstr "Vil du pakke ut «%1» her?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:548
+msgid "Cut"
+msgstr "Klipp ut"
+
+#: ../src/app/qml/ui/FolderListPage.qml:559
+msgid "Copy"
+msgstr "Kopier"
+
+#: ../src/app/qml/ui/FolderListPage.qml:599
+#: ../src/app/qml/ui/FolderListPage.qml:720
+msgid "Extract archive"
+msgstr "Pakk ut arkiv"
+
+#: ../src/app/qml/ui/FolderListPage.qml:630
+msgid "File operation error"
+msgstr "Filoperasjonsfeil"
+
+#: ../src/app/qml/ui/FolderListPage.qml:661
+#, qt-format
+msgid "Extracting archive '%1'"
+msgstr "Pakker ut arkivet «%1»"
+
+#: ../src/app/qml/ui/FolderListPage.qml:682
+msgid "OK"
+msgstr "OK"
+
+#: ../src/app/qml/ui/FolderListPage.qml:697
+msgid "Extracting failed"
+msgstr "Utpakkingen mislyktes"
+
+#: ../src/app/qml/ui/FolderListPage.qml:698
+#, qt-format
+msgid "Extracting the archive '%1' failed."
+msgstr "Klarte ikke å pakke ut arkivet «%1»."
+
+#: ../src/app/qml/ui/FolderListPage.qml:712
+msgid "Archive file"
+msgstr "Arkivfil"
+
+#: ../src/app/qml/ui/FolderListPage.qml:713
+msgid "Do you want to extract the archive here?"
+msgstr "Vil du pakke ut arkivet her?"
+
+#: ../src/app/qml/ui/FolderListPage.qml:730
+msgid "Open with another app"
+msgstr "Åpne med en annen app"
+
+#: ../src/app/qml/ui/FolderListPage.qml:798
+msgid "~/Desktop"
+msgstr "~/Skrivebord"
+
+#: ../src/app/qml/ui/FolderListPage.qml:808
+msgid "~/Public"
+msgstr "~/Offentlig"
+
+#: ../src/app/qml/ui/FolderListPage.qml:810
+msgid "~/Programs"
+msgstr "~/Programmer"
+
+#: ../src/app/qml/ui/FolderListPage.qml:812
+msgid "~/Templates"
+msgstr "~/Maler"
+
+#: ../src/app/qml/ui/FolderListPage.qml:828
+msgid "Home"
+msgstr "Hjem"
+
+#: ../src/app/qml/ui/FolderListPage.qml:898
+msgid "Folder not accessible"
+msgstr "Ingen tilgang til mappa"
+
+#. TRANSLATORS: this refers to a folder name
+#: ../src/app/qml/ui/FolderListPage.qml:900
+#, qt-format
+msgid "Can not access %1"
+msgstr "Fikk ikke tilgang til «%1»"
+
+#: ../src/app/qml/ui/GoToDialog.qml:26
+msgid "Go To Location"
+msgstr "Gå til plassering"
+
+#: ../src/app/qml/ui/GoToDialog.qml:28
+msgid "Enter a location to go to:"
+msgstr "Skriv inn plasseringen du vil gå til:"
+
+#: ../src/app/qml/ui/GoToDialog.qml:45 ../src/app/qml/ui/PlacesPage.qml:63
+#: ../src/app/qml/ui/PlacesPopover.qml:66
+msgid "Location..."
+msgstr "Plassering …"
+
+#: ../src/app/qml/ui/GoToDialog.qml:54 ../src/app/qml/ui/PlacesPage.qml:78
+#: ../src/app/qml/ui/PlacesPopover.qml:81
+msgid "Go"
+msgstr "Gå"
+
+#: ../src/app/qml/ui/SettingsSheet.qml:34
+msgid "Close"
+msgstr "Lukk"
+
+#: ../src/app/qml/ui/SettingsSheet.qml:43
+msgid "Show Advanced Features"
+msgstr "Vis avanserte funksjoner"
+
+#: ../src/app/qml/ui/ViewPopover.qml:39
+msgid "Show Hidden Files"
+msgstr "Vis skjulte filer"
+
+#: ../src/app/qml/ui/ViewPopover.qml:59
+msgid "View As"
+msgstr "Vis som"
+
+#: ../src/app/qml/ui/ViewPopover.qml:81
+msgid "Sort By"
+msgstr "Sorter etter"
+
+#: ../src/app/qml/ui/ViewPopover.qml:92
+msgid "Name"
+msgstr "Navn"
+
+#: ../src/app/qml/ui/ViewPopover.qml:93
+msgid "Date"
+msgstr "Dato"
+
+#: ../src/app/qml/ui/ViewPopover.qml:103
+msgid "Sort Order"
+msgstr "Sorteringsrekkefølge"
+
+#: ../src/app/qml/ui/ViewPopover.qml:114 ../src/app/qml/ui/ViewPopover.qml:119
+msgid "Ascending"
+msgstr "Stigende"
+
+#: ../src/app/qml/ui/ViewPopover.qml:115
+msgid "Descending"
+msgstr "Synkende"
+
+#: ../src/app/qml/ui/ViewPopover.qml:127
+msgid "Filter"
+msgstr "Filter"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:418
+msgid "path or url may not exist or cannot be read"
+msgstr "Stien eller linken fins ikke eller kan ikke leses"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:585
+msgid "Rename error"
+msgstr "Klarte ikke å gi nytt navn"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:610
+msgid "Error creating new folder"
+msgstr "Klarte ikke å lage ny mappe"
+
+#: ../src/plugin/folderlistmodel/dirmodel.cpp:1252
+msgid "items"
+msgstr "elementer"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:263
+msgid "File or Directory does not exist"
+msgstr "Filen eller mappen fins ikke"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:264
+msgid " does not exist"
+msgstr " fins ikke"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:590
+msgid "Could not remove the item "
+msgstr "Klarte ikke å fjerne elementet "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:631
+msgid "Could not find a suitable name to backup"
+msgstr "Fant ikke et passende navn for sikkerhetskopi"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:685
+msgid "Could not create the directory"
+msgstr "Klarte ikke å lage mappen"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:694
+msgid "Could not create link to"
+msgstr "Klarte ikke å lage link til"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:706
+msgid "Could not set permissions to dir"
+msgstr ""
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:720
+msgid "Could not open file"
+msgstr "Klarte ikke å åpne fil"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:739
+msgid "There is no space on disk to copy"
+msgstr "Ikke nok plass til å kopiere"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:749
+msgid "Could not create file"
+msgstr "Klarte ikke å lage fil"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:813
+msgid "Could not remove the directory/file "
+msgstr "Klarte ikke å fjerne mappen eller filen "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:829
+msgid "Could not move the directory/file "
+msgstr "Klarte ikke å flytte mappen eller filen "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:863
+msgid "Cannot copy items"
+msgstr "Klarte ikke å kopiere elementer"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:864
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:883
+msgid "no write permission on folder "
+msgstr "ikke skrivetilgang i mappen "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:882
+msgid "Cannot move items"
+msgstr "Klarte ikke å flytte elementer"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:888
+msgid "origin and destination folders are the same"
+msgstr "fra- og til-mappen er den samme"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1104
+msgid "Write error in "
+msgstr "Skrivefeil i "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1120
+msgid "Read error in "
+msgstr "Lesefeil i "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1354
+msgid " Copy"
+msgstr " Kopier"
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1410
+msgid "Set permissions error in "
+msgstr "Klarte ikke å fastsette rettigheter i "
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1494
+msgid "Could not create trash info file"
+msgstr ""
+
+#: ../src/plugin/folderlistmodel/filesystemaction.cpp:1507
+msgid "Could not remove the trash info file"
+msgstr ""
+
+#: com.ubuntu.filemanager.desktop.in.in.h:1
+msgid "File Manager"
+msgstr "Filbehandling"
