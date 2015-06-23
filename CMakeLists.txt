@@ -9,8 +9,8 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -fno-permissive -pedantic -Wa
 # Standard install paths
 include(GNUInstallDirs)
 
-option(INSTALL_TESTS "Install the tests on make install" on)
-option(CLICK_MODE "Installs to a contained location" on)
+option(INSTALL_TESTS "Install the tests on make install" off)
+option(CLICK_MODE "Installs to a contained location" off)
 
 set(APP_NAME filemanager)
 set(DESKTOP_FILE "${PROJECT_NAME}.desktop")
